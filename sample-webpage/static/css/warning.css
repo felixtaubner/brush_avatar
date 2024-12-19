@@ -1,0 +1,31 @@
+.warning {
+    max-width: 400px;
+    display: none; /* Ensure it's hidden initially */
+    background-color: #fff3cd; /* Light yellow */
+    border: 1px solid #ffeeba; /* Darker yellow border */
+    border-radius: 4px;
+    padding: 15px;
+    font-family: Arial, sans-serif;
+    color: #856404; /* Darker yellow text */
+    margin: auto;
+  }
+  
+  .warning-title {
+    display: flex;
+    align-items: center;
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .warning-icon {
+    width: 24px; /* Set a fixed width */
+    height: 24px; /* Set a fixed height */
+    margin-right: 10px; /* Add spacing between icon and text */
+    color: #856404; /* Match icon color with text */
+  }
+  
+  .warning-message {
+    font-size: 14px;
+    margin: 0;
+  }
