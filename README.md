@@ -3,7 +3,7 @@
 This repo is intended to include a live viewer dynamic Gaussian avatars (or any mesh-rigged Gaussian splats) in your project page with as little effort as possible. 
 
 <video width="640" autoplay loop muted controls>
-  <source src="assets/interactive_viewer.mp4" type="video/mp4">
+  <source src="https://vih3gw.db.files.1drv.com/y4mxFUP7BwnoWs9jtuHW5no9NO296J826S8tQ7DuPy9fVC74bR8Vhl-HVmy-JOglPXBbZXO3K39WJwkbEFsqYvFNVo7FGp9iWFsDirMmwrGXscdQKRp4h6k6eSfLKVT3r6P5RpooRiBeijpPftrPwSuFi0zlcwKgS0gBE2D0TOOvwuIMQ1z5wg0UeTtjas0ZGKqwNBjAWDNb_Zx-SXeKPlIPg/interactive_viewer.mp4?authkey=!AGwhLQzdgs5Hd1U" type="video/mp4">
 </video>
 
 ## Running the website template
