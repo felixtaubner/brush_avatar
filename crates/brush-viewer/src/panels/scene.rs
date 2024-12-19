@@ -165,8 +165,8 @@ impl ScenePanel {
                     // if training views have alpha, show a background checker.
                     brush_ui::draw_checkerboard(ui, rect);
                 } else {
-                    // If a scene is opaque, it assumes a black background.
-                    ui.painter().rect_filled(rect, 0.0, Color32::BLACK);
+                    // If a scene is opaque, it assumes a white background.
+                    ui.painter().rect_filled(rect, 0.0, Color32::WHITE);
                 };
 
                 ui.painter().image(

@@ -50,6 +50,7 @@ async fn read_splat_data<B: Backend>(splats: Splats<B>) -> Result<Vec<GaussianDa
                     log_scales[i * 3 + 2],
                 ),
                 opacity: opacities[i],
+                binding: 0,
                 rotation: Quat::from_xyzw(
                     rotations[i * 4 + 1],
                     rotations[i * 4 + 2],
